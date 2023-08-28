@@ -1,0 +1,11 @@
+.DS_Store
+.DS_Store?
+
+# npm
+/node_modules
+
+# Logs
+npm-debug.log*
+
+# 11ty
+/_site
