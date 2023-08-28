@@ -1,3 +1,5 @@
+> **NOTE**: I had to update some of the links in this version of the book. Some of the youtube videos were deleted, so I've found some alternative ones.
+
 # Shortener
 
 This is a fork from [suri](https://github.com/jstayton/suri). Kudos to [jstayton](https://github.com/jstayton) for this clever project.
